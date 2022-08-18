@@ -1,2 +1,2 @@
 # projeto-alura-mid
-Projeto Alura Midi Curso Front-End
+## Projeto Alura Midi Curso Front-End
